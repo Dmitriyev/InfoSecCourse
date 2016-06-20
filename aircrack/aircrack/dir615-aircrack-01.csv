@@ -1,0 +1,6 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+C0:4A:00:E2:D1:86, 2016-06-20 14:57:13, 2016-06-20 14:58:04,  6,  54, WPA2WPA , CCMP,PSK, -75,      497,        0,   0.  0.  0.  0,  10, Seaborgium, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+
